@@ -1,6 +1,7 @@
 # FRG-Derivatives
 
 ## Session-1 Reading:
+- [Derivative Basics](https://www.investopedia.com/ask/answers/12/derivative.asp)
 - [Option Basics](https://www.investopedia.com/terms/o/option.asp#:~:text=Options%20are%20financial%20derivatives%20that,hedging%2C%20income%2C%20or%20speculation.)
 - [Basics of Normal Distribution](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution)
 
