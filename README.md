@@ -9,3 +9,4 @@
 - [Black Scholes Equation and its Derivation](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_equation)
 - [Black-Scholes Paper 1973](https://github.com/gowrijp/FRG-Derivatives/blob/main/black_scholes73.pdf)
 - [MIT BS and Risk Neutral Pricing Lecture notes](https://github.com/gowrijp/FRG-Derivatives/blob/main/MIT_lecnote19_Riskneutralpricing_BS.pdf)
+- [MIT OCW Lecture on Black-Scholes](https://youtu.be/TnS8kI_KuJc)
